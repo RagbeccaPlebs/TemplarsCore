@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: TemplarsCore
-Implementation-Version: 1.0
-Specification-Vendor: examplemodsareus
-Specification-Title: templarscore
-Implementation-Timestamp: 2021-02-22T17:54:13+0100
-Specification-Version: 1
-Implementation-Vendor: examplemodsareus
-
