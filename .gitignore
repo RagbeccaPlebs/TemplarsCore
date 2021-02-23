@@ -1,2 +1,6 @@
 
 .idea/vcs.xml
+/build/
+/logs/
+/mcmodsrepo/
+/run/
